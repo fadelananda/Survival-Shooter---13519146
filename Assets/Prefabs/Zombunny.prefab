@@ -18,9 +18,9 @@ GameObject:
   - component: {fileID: 6902955711038355155}
   - component: {fileID: 6902955711038355114}
   - component: {fileID: 6902955711038355115}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zombunny
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -274,7 +274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6902955710791680903}
   - component: {fileID: 6902955710777725679}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zombunny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 6902955711476920678}
   - component: {fileID: 6902955711476920676}
   - component: {fileID: 6902955711476920679}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: HitParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
